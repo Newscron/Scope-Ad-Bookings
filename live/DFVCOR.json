@@ -27,9 +27,9 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "",
-        "click": "",
-        "layout": "",
+        "img": "https://via.placeholder.com/600x250",
+        "click": "https://www.thescope.com",
+        "layout": "image",
         "bformat": ""
     }
 ]
