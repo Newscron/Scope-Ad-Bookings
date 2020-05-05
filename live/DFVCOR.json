@@ -31,5 +31,16 @@
         "click": "https://veranstaltungen.ruw.de/veranstaltungen/wirtschaftsrecht/bb-fachkonferenz-eu-restrukturierungsrichtlinie",
         "layout": "image",
         "bformat": ""
+    },
+    {
+        "place": "ContentAd-4",
+        "title": "",
+        "display_title": false,
+        "linktext": "",
+        "text": "",
+        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/BTG_digiTalk_674_269_Messen_eingerueckt.jpg",
+        "click": "https://www.dfvcg.de/kongresse/marketing-medien-branding/digital-talk-keine-messen-was-sind-die-alternative-marketingstrategien",
+        "layout": "image",
+        "bformat": ""
     }
 ]
