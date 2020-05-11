@@ -5,8 +5,8 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Umschlag-Dauber-Merten-Auswirkungen-Corona-Krise-quer.jpg",
-        "click": "https://www.hds-verlag.de/",
+        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/new_fachkonferenz_Corona-Newsletter.jpg",
+        "click": "https://veranstaltungen.ruw.de/veranstaltungen/arbeitsrecht/bb-fachkonferenz-vertrauensarbeitszeit",
         "layout": "image",
         "bformat": ""
     },
@@ -14,11 +14,11 @@
         "place": "ContentAd-2",
         "title": "Praktische Hilfe im Umgang mit den Folgen der Corona-Krise",
         "display_title": false,
-        "linktext": "Bestellen Sie das Buch „Auswirkungen der Corona-Krise auf Steuern, Wirtschaft, Recht“ hier!",
-        "text": "<strong>Harald Dauber/Michael Merten, Auswirkungen der Corona-Krise auf Steuern, Wirtschaft, Recht</strong><br/><br/>Umfang: 160 Seiten, Preis: 39,90 €, ISBN: 978-3-95554-652-6, HDS-Verlag<br/>Der Titel ist bereits lieferbar.<br/><br/>Das Buch gibt einen kompakten Überblick über die Änderungen im Gesellschafts- und Insolvenzrecht, zum Schutz von Mietern, Verbrauchern und Kleinstunternehmern, der Gewährung finanzieller Zuschüsse an Kleinunternehmen und Selbstständige, staatlicher Garantien, Hilfen der KfW zur Kreditvergabe, Arbeits- und Sozialrecht sowie zahlreiche Maßnahmen im Steuerrecht. Das Werk beinhaltet Materialien (z.B. das COVInsAG, WStFG, BMF-Schreiben) und eine Übersicht über die zuständigen Behörden.",
-        "img": "",
-        "click": "https://www.hds-verlag.de/auswirkungen-der-corona-krise-auf-steuern-wirtschaft-recht-1-auflage-2020.html",
-        "layout": "textanzeige",
+        "linktext": "",
+        "text": "",
+        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Cumex_Banner_728x250.jpg",
+        "click": "https://veranstaltungen.ruw.de/veranstaltungen/steuerrecht/bb-fachkonferenz-haftung-von-anlegern-beratern-und-instituten-in-cum-ex-verfahren",
+        "layout": "image",
         "bformat": ""
     },
     {
@@ -27,8 +27,8 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/new_fachkonferenz_Corona-Newsletter.jpg",
-        "click": "https://veranstaltungen.ruw.de/veranstaltungen/arbeitsrecht/bb-fachkonferenz-vertrauensarbeitszeit",
+        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Banner_Sanierungsberater_728x250.jpg",
+        "click": "http://www.sanierungsberater.de/",
         "layout": "image",
         "bformat": ""
     },
