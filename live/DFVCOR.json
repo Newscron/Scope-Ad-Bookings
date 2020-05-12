@@ -5,20 +5,20 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/new_fachkonferenz_Corona-Newsletter.jpg",
-        "click": "https://veranstaltungen.ruw.de/veranstaltungen/arbeitsrecht/bb-fachkonferenz-vertrauensarbeitszeit",
+        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Uppenbrink-Haftungsrisiken-insolvenzgefhrdete-Mandaten-quer.jpg",
+        "click": "https://www.hds-verlag.de/",
         "layout": "image",
         "bformat": ""
     },
     {
         "place": "ContentAd-2",
-        "title": "",
+        "title": "Haftung für steuerliche und wirtschaftliche Berater eines krisenbehafteten Unternehmens",
         "display_title": false,
-        "linktext": "",
-        "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Cumex_Banner_728x250.jpg",
-        "click": "https://veranstaltungen.ruw.de/veranstaltungen/steuerrecht/bb-fachkonferenz-haftung-von-anlegern-beratern-und-instituten-in-cum-ex-verfahren",
-        "layout": "image",
+        "linktext": "Bestellen Sie das Buch „Haftungsrisiken für Steuerberater und Wirtschaftsprüfer bei insolvenzgefährdeten Mandaten“ hier!",
+        "text": "<strong>Thomas Uppenbrink/Sebastian Frank</strong><br/><strong>Haftungsrisiken für Steuerberater und Wirtschaftsprüfer bei insolvenzgefährdeten Mandaten, 1. Auflage 2020</strong><br/>Umfang: 104 Seiten, Kartoniert, Preis: 49,90 €, ISBN 978-3-95554-497-3, HDS-Verlag<br/><br/>Nach der Rechtsprechung bestehen umfängliche haftungsrechtliche Konsequenzen für die steuerlichen und wirtschaftlichen Berater eines krisenbehafteten Unternehmens. <strong>Inhalte des Buchs</strong>: Honoraranfechtung/Honorarsicherung, Insolvenzbeantragung, Quotenschadenhaftung, Konsequenzen aus pflichtwidriger Beratung. Mit Anhang Änderungen im Zuge der Corona-Pandemie durch das COVID-19-Insolvenzaussetzungsgesetz.",
+        "img": "",
+        "click": "https://www.hds-verlag.de/haftungsrisiken-fur-steuerberater-und-wirtschaftsprufer-bei-insolvenzgefahrdeten-mandaten-1-auflage-2020.html",
+        "layout": "textanzeige",
         "bformat": ""
     },
     {
@@ -27,8 +27,8 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Banner_Sanierungsberater_728x250.jpg",
-        "click": "http://www.sanierungsberater.de/",
+        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/new_fachkonferenz_Corona-Newsletter.jpg",
+        "click": "https://veranstaltungen.ruw.de/veranstaltungen/arbeitsrecht/bb-fachkonferenz-vertrauensarbeitszeit",
         "layout": "image",
         "bformat": ""
     },
@@ -38,8 +38,8 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/BTG_digiTalk_674_269_Messen_eingerueckt.jpg",
-        "click": "https://www.dfvcg.de/kongresse/marketing-medien-branding/digital-talk-keine-messen-was-sind-die-alternative-marketingstrategien",
+        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Banner_Sanierungsberater_728x250.jpg",
+        "click": "http://www.sanierungsberater.de/",
         "layout": "image",
         "bformat": ""
     }
