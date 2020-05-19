@@ -5,13 +5,24 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/fo_Webinar-Corona-und-Datenschutz-Ban730x250_05_20.png",
-        "click": "https://attendee.gotowebinar.com/register/2877877534408617999?source=bb-nl-corona",
+        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Umschlag-Dauber-Vereinsbesteuerung-12A-quer.png",
+        "click": "https://www.hds-verlag.de/",
         "layout": "image",
         "bformat": ""
     },
     {
         "place": "ContentAd-2",
+        "title": "Besteuerung gemeinnütziger Vereine",
+        "display_title": false,
+        "linktext": "Bestellen Sie das Buch „Vereinsbesteuerung Kompakt 2019/2020“ hier!",
+        "text": "<strong>Harald Dauber/Josef Schneider<br/>Vereinsbesteuerung Kompakt 2019/2020, 12. Auflage</strong><br/>Umfang: 944 Seiten, Kartoniert, Preis: 99,90 €, ISBN: 978-3-95554-564-2, HDS-Verlag<br/><br/>Für die Vereinsbesteuerung wichtige Bereiche: Rechtliche Grundlagen, Steuerarten (Körperschaftsteuer, Umsatzsteuer, Gewerbesteuer, Lohnsteuer, Grundsteuer, Erbschaftsteuer, Grunderwerbsteuer, Lotteriesteuer, Kraftfahrzeugsteuer, Bauabzugsteuer), Gemeinnützigkeit, Spenden + Sponsoring, Rechenschafts-, Buchführungs- und Aufzeichnungspflichten, Mindestlohn, Haftung, Datenschutz-Grundverordnung/Bundesdatenschutzgesetz, Sozialversicherungsrecht. Zahlreiche Beispiele, Tipps, Schaubilder, Tabellen, Checklisten, Formulare und ein formularbezogener Fall, DATEV-Lösungen.",
+        "img": "",
+        "click": "https://www.hds-verlag.de/vereinsbesteuerung-kompakt-2019-2020-12-auflage-2020.html",
+        "layout": "textanzeige",
+        "bformat": ""
+    },
+    {
+        "place": "ContentAd-3",
         "title": "",
         "display_title": false,
         "linktext": "",
@@ -22,24 +33,13 @@
         "bformat": ""
     },
     {
-        "place": "ContentAd-3",
+        "place": "ContentAd-4",
         "title": "",
         "display_title": false,
         "linktext": "",
         "text": "",
         "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Die-insolvenzrechtlichen-Folgen-der-COVID-19-Pandemie_728x250_V01.jpg",
         "click": "https://veranstaltungen.ruw.de/veranstaltungen/wirtschaftsrecht/bb-fachkonferenz-eu-restrukturierungsrichtlinie",
-        "layout": "image",
-        "bformat": ""
-    },
-    {
-        "place": "ContentAd-4",
-        "title": "",
-        "display_title": false,
-        "linktext": "",
-        "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/BTG_digiTalk_674_269_Messen_eingerueckt.jpg",
-        "click": "https://www.dfvcg.de/kongresse/marketing-medien-branding/digital-talk-keine-messen-was-sind-die-alternative-marketingstrategien",
         "layout": "image",
         "bformat": ""
     }
