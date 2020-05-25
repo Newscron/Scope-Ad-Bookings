@@ -1,24 +1,24 @@
 [
     {
         "place": "ContentAd-1",
-        "title": "",
-        "display_title": false,
-        "linktext": "",
-        "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Umschlag-Dauber-Vereinsbesteuerung-12A-quer.png",
-        "click": "https://www.hds-verlag.de/",
-        "layout": "image",
+        "title": "Bestens vorbereitet für steuerliche Prüfungen 2020/2021!",
+        "display_title": true,
+        "linktext": "Bestellen Sie das Buch „Paket Falltraining 2020/2021“ hier!",
+        "text": "<strong>Paket Falltraining 2020/2021, 5. Auflage <br />Fälle und Lösungen zum Steuerrecht</strong><br /> <br />Umfang: 1.936 Seiten, Preis: 329,80 €, ISBN: 978-3-95554-567-3, HDS-Verlag <br /> <br />Gezielte Prüfungsvorbereitung mit Fällen und Lösungen. Enthält 14 Übungsklausuren mit Lösungen <br /> <br />Das Paket mit hunderten von Fällen und Lösungen zur Prüfungsvorbereitung besteht aus folgenden 8 Büchern:<br /><ol><li>Falltraining Abgabenordnung und Finanzgerichtsordnung</li><li>Falltraining Bilanzsteuerrecht</li><li>Falltraining Besteuerung der Personengesellschaften</li><li>Falltraining Körperschaftsteuer</li><li>Falltraining Lohnsteuer</li><li>Falltraining Umsatzsteuer</li><li>Falltraining Internationales Steuerrecht</li><li>Falltraining Einkommensteuerrecht</li></ol>",
+        "img": "",
+        "click": "https://www.hds-verlag.de/paket-falltraining-2020-2021-5-auflage.html",
+        "layout": "textanzeige",
         "bformat": ""
     },
     {
         "place": "ContentAd-2",
-        "title": "Besteuerung gemeinnütziger Vereine",
+        "title": "",
         "display_title": false,
-        "linktext": "Bestellen Sie das Buch „Vereinsbesteuerung Kompakt 2019/2020“ hier!",
-        "text": "<strong>Harald Dauber/Josef Schneider<br/>Vereinsbesteuerung Kompakt 2019/2020, 12. Auflage</strong><br/>Umfang: 944 Seiten, Kartoniert, Preis: 99,90 €, ISBN: 978-3-95554-564-2, HDS-Verlag<br/><br/>Für die Vereinsbesteuerung wichtige Bereiche: Rechtliche Grundlagen, Steuerarten (Körperschaftsteuer, Umsatzsteuer, Gewerbesteuer, Lohnsteuer, Grundsteuer, Erbschaftsteuer, Grunderwerbsteuer, Lotteriesteuer, Kraftfahrzeugsteuer, Bauabzugsteuer), Gemeinnützigkeit, Spenden + Sponsoring, Rechenschafts-, Buchführungs- und Aufzeichnungspflichten, Mindestlohn, Haftung, Datenschutz-Grundverordnung/Bundesdatenschutzgesetz, Sozialversicherungsrecht. Zahlreiche Beispiele, Tipps, Schaubilder, Tabellen, Checklisten, Formulare und ein formularbezogener Fall, DATEV-Lösungen.",
-        "img": "",
-        "click": "https://www.hds-verlag.de/vereinsbesteuerung-kompakt-2019-2020-12-auflage-2020.html",
-        "layout": "textanzeige",
+        "linktext": "",
+        "text": "",
+        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/Banner-HomeOffice-Gratis-728x250px.jpg",
+        "click": "https://www.juris.de/jportal/nav/juris_2015/landingpages/homeoffice_kampagne.jsp?utm_source=newsletter&utm_medium=display&utm_campaign=dfv_corona%20nl_25.05.2020",
+        "layout": "image",
         "bformat": ""
     },
     {
@@ -27,8 +27,8 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Banner_Arbeitszeit_2020_728x250.jpg",
-        "click": "https://veranstaltungen.ruw.de/veranstaltungen/arbeitsrecht/bb-fachkonferenz-vertrauensarbeitszeit",
+        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/Umschlag-Paket-Falltraining-2019-2020-quer.jpg",
+        "click": "http://www.hds-verlag.de/",
         "layout": "image",
         "bformat": ""
     },
@@ -38,8 +38,8 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/NEU_728x250_EU-Restrukturierung.jpg",
-        "click": "https://veranstaltungen.ruw.de/veranstaltungen/wirtschaftsrecht/bb-fachkonferenz-eu-restrukturierungsrichtlinie",
+        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/!!BRANDNEW%20Banner_Arbeitszeit_2020_728x250.jpg",
+        "click": "https://veranstaltungen.ruw.de/veranstaltungen/arbeitsrecht/bb-fachkonferenz-vertrauensarbeitszeit",
         "layout": "image",
         "bformat": ""
     }
