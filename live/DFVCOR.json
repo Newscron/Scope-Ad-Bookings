@@ -1,12 +1,12 @@
 [
     {
         "place": "ContentAd-1",
-        "title": "Bestens vorbereitet für steuerliche Prüfungen 2020/2021!",
+        "title": "Praktische Hilfe im Umgang mit den Folgen der Corona-Krise",
         "display_title": true,
-        "linktext": "Bestellen Sie das Buch „Paket Falltraining 2020/2021“ hier!",
-        "text": "<strong>Paket Falltraining 2020/2021, 5. Auflage <br />Fälle und Lösungen zum Steuerrecht</strong><br /> <br />Umfang: 1.936 Seiten, Preis: 329,80 €, ISBN: 978-3-95554-567-3, HDS-Verlag <br /> <br />Gezielte Prüfungsvorbereitung mit Fällen und Lösungen. Enthält 14 Übungsklausuren mit Lösungen <br /> <br />Das Paket mit hunderten von Fällen und Lösungen zur Prüfungsvorbereitung besteht aus folgenden 8 Büchern:<br /><ol><li>Falltraining Abgabenordnung und Finanzgerichtsordnung</li><li>Falltraining Bilanzsteuerrecht</li><li>Falltraining Besteuerung der Personengesellschaften</li><li>Falltraining Körperschaftsteuer</li><li>Falltraining Lohnsteuer</li><li>Falltraining Umsatzsteuer</li><li>Falltraining Internationales Steuerrecht</li><li>Falltraining Einkommensteuerrecht</li></ol>",
+        "linktext": "Bestellen Sie das Buch hier!",
+        "text": "<strong>Bernhardt/Wind<br />Wirtschaft und Steuern in der Corona-Krise 2020 – Kompakt</strong><br /><br />Umfang: ca. 260 Seiten, Preis: 49,90 €, ISBN: 978-3-95554-653-3, HDS-Verlag<br />Erscheint ca. Mitte Juni 2020<br /><br />Der Gesetzgeber sowie die Finanzverwaltung haben unmittelbar zahlreiche Maßnahmen zur Reduzierung der Folgen Corona-Krise für Unternehmen, Selbständige, Privatpersonen, Arbeitnehmer und Mieter umgesetzt: Liquiditätsstärkung (Corona-Soforthilfen, KfW-Kredite), Arbeitsrecht (Kurzarbeitergeld), Insolvenzrecht (COVInsAG), Mietrecht sowie Steuern (z.B. Stundung, Umsatzsteuer, Steuerfreiheit von Corona-Bonus-Zahlungen).<br />Das Buch stellt alle Maßnahmen dar. Mit Checklisten und Beispielen. Anhang mit Gesetzestexten und BMF-Schreiben.",
         "img": "",
-        "click": "https://www.hds-verlag.de/paket-falltraining-2020-2021-5-auflage.html",
+        "click": "https://www.hds-verlag.de/",
         "layout": "textanzeige",
         "bformat": ""
     },
@@ -17,7 +17,7 @@
         "linktext": "",
         "text": "",
         "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Banner-HomeOffice-Gratis-728x250px.jpg",
-        "click": "https://www.juris.de/jportal/nav/juris_2015/landingpages/homeoffice_kampagne.jsp?utm_source=newsletter&utm_medium=display&utm_campaign=dfv_corona%20nl_25.05.2020",
+        "click": "https://www.juris.de/jportal/nav/juris_2015/landingpages/homeoffice_kampagne.jsp?utm_source=newsletter&utm_medium=display&utm_campaign=dfv_corona%20nl_02.06.2020",
         "layout": "image",
         "bformat": ""
     },
@@ -27,8 +27,8 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Umschlag-Paket-Falltraining-2019-2020-quer.jpg",
-        "click": "http://www.hds-verlag.de/",
+        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Umschlag-Bernhardt-Wind-Corona-Krise-2020-quer.png",
+        "click": "https://www.hds-verlag.de/wirtschaft-und-steuern-in-der-corona-krise-2020-kompakt-1-auflage-2020.html",
         "layout": "image",
         "bformat": ""
     },
@@ -38,8 +38,8 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/BRANDNEW-Banner_Arbeitszeit_2020_728x250.jpg",
-        "click": "https://veranstaltungen.ruw.de/veranstaltungen/arbeitsrecht/bb-fachkonferenz-vertrauensarbeitszeit",
+        "img": "",
+        "click": "",
         "layout": "image",
         "bformat": ""
     }
