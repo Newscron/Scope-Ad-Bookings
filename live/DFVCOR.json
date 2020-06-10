@@ -1,13 +1,13 @@
 [
     {
         "place": "ContentAd-1",
-        "title": "Praktische Hilfe im Umgang mit den Folgen der Corona-Krise",
-        "display_title": true,
-        "linktext": "Bestellen Sie das Buch hier!",
-        "text": "<strong>Bernhardt/Wind<br />Wirtschaft und Steuern in der Corona-Krise 2020 – Kompakt</strong><br /><br />Umfang: ca. 260 Seiten, Preis: 49,90 €, ISBN: 978-3-95554-653-3, HDS-Verlag<br />Erscheint ca. Mitte Juni 2020<br /><br />Der Gesetzgeber sowie die Finanzverwaltung haben unmittelbar zahlreiche Maßnahmen zur Reduzierung der Folgen Corona-Krise für Unternehmen, Selbständige, Privatpersonen, Arbeitnehmer und Mieter umgesetzt: Liquiditätsstärkung (Corona-Soforthilfen, KfW-Kredite), Arbeitsrecht (Kurzarbeitergeld), Insolvenzrecht (COVInsAG), Mietrecht sowie Steuern (z.B. Stundung, Umsatzsteuer, Steuerfreiheit von Corona-Bonus-Zahlungen).<br />Das Buch stellt alle Maßnahmen dar. Mit Checklisten und Beispielen. Anhang mit Gesetzestexten und BMF-Schreiben.",
-        "img": "",
-        "click": "https://www.hds-verlag.de/",
-        "layout": "textanzeige",
+        "title": "",
+        "display_title": false,
+        "linktext": "",
+        "text": "",
+        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Banner-HomeOffice-Gratis-728x250px.jpg",
+        "click": "https://www.juris.de/jportal/nav/juris_2015/landingpages/homeoffice_kampagne.jsp?utm_source=newsletter&utm_medium=display&utm_campaign=dfv_corona%20nl_08.06.2020",
+        "layout": "image",
         "bformat": ""
     },
     {
@@ -16,8 +16,8 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Banner-HomeOffice-Gratis-728x250px.jpg",
-        "click": "https://www.juris.de/jportal/nav/juris_2015/landingpages/homeoffice_kampagne.jsp?utm_source=newsletter&utm_medium=display&utm_campaign=dfv_corona%20nl_02.06.2020",
+        "img": "https://storage.googleapis.com/static-imgs/DFVBEB/ads/Banner_Strafrechtliche_Brennpunkte_728x250.jpg",
+        "click": "https://veranstaltungen.ruw.de/veranstaltungen/krisenmanagement/bb-fachkonferenz-strafrechtliche-brennpunkte-im-unternehmen",
         "layout": "image",
         "bformat": ""
     },
@@ -27,8 +27,8 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Umschlag-Bernhardt-Wind-Corona-Krise-2020-quer.png",
-        "click": "https://www.hds-verlag.de/wirtschaft-und-steuern-in-der-corona-krise-2020-kompakt-1-auflage-2020.html",
+        "img": "https://storage.googleapis.com/static-imgs/DFVBEB/ads/BB-FK-Stiftungen-728x250.jpg",
+        "click": "https://veranstaltungen.ruw.de/veranstaltungen/wirtschaftsrecht/bb-fachkonferenz-stiftungen-2020",
         "layout": "image",
         "bformat": ""
     },
@@ -38,8 +38,8 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "",
-        "click": "",
+        "img": "https://storage.googleapis.com/static-imgs/DFVBEB/ads/VPA_728x250.jpg",
+        "click": "https://veranstaltungen.ruw.de/veranstaltungen/steuerrecht/bb-fachkonferenz-verrechnungspreise-aktuell-2020",
         "layout": "image",
         "bformat": ""
     }
