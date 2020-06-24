@@ -5,8 +5,8 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Banner-HomeOffice-Gratis-728x250px.jpg",
-        "click": "https://www.juris.de/jportal/nav/juris_2015/landingpages/homeoffice_kampagne.jsp?utm_source=newsletter&utm_medium=display&utm_campaign=dfv_corona%20nl_08.06.2020",
+        "img": "https://storage.googleapis.com/static-imgs/DFVCOR/ads/Banner_Strafrechtliche_Brennpunkte_728x250.jpg",
+        "click": "https://veranstaltungen.ruw.de/veranstaltungen/krisenmanagement/bb-fachkonferenz-strafrechtliche-brennpunkte-im-unternehmen",
         "layout": "image",
         "bformat": ""
     },
@@ -16,8 +16,8 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVBEB/ads/Banner_Strafrechtliche_Brennpunkte_728x250.jpg",
-        "click": "https://veranstaltungen.ruw.de/veranstaltungen/krisenmanagement/bb-fachkonferenz-strafrechtliche-brennpunkte-im-unternehmen",
+        "img": "https://storage.googleapis.com/static-imgs/DFVBEB/ads/VPA-728x250.jpg",
+        "click": "https://veranstaltungen.ruw.de/veranstaltungen/steuerrecht/bb-fachkonferenz-verrechnungspreise-aktuell-2020",
         "layout": "image",
         "bformat": ""
     },
@@ -27,8 +27,8 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVBEB/ads/BB-FK-Stiftungen-728x250.jpg",
-        "click": "https://veranstaltungen.ruw.de/veranstaltungen/wirtschaftsrecht/bb-fachkonferenz-stiftungen-2020",
+        "img": "https://storage.googleapis.com/static-imgs/DFVBEB/ads/Investmentfonds-728x250.jpg",
+        "click": "https://veranstaltungen.ruw.de/veranstaltungen/steuerrecht/bb-fachkonferenz-investmentsteuergesetz",
         "layout": "image",
         "bformat": ""
     },
@@ -38,8 +38,8 @@
         "display_title": false,
         "linktext": "",
         "text": "",
-        "img": "https://storage.googleapis.com/static-imgs/DFVBEB/ads/VPA_728x250.jpg",
-        "click": "https://veranstaltungen.ruw.de/veranstaltungen/steuerrecht/bb-fachkonferenz-verrechnungspreise-aktuell-2020",
+        "img": "https://storage.googleapis.com/static-imgs/DFVBEB/ads/BB-FK Stiftungen-728x250.jpg",
+        "click": "https://veranstaltungen.ruw.de/veranstaltungen/wirtschaftsrecht/bb-fachkonferenz-stiftungen-2020",
         "layout": "image",
         "bformat": ""
     }
