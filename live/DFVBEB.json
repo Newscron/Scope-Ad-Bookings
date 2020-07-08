@@ -1,6 +1,6 @@
 [
     {
-        "place": "ContentAd-1",
+        "place": "Content1-Newsletter",
         "title": "",
         "display_title": false,
         "linktext": "",
@@ -11,7 +11,7 @@
         "bformat": ""
     },
     {
-        "place": "ContentAd-2",
+        "place": "Content2-Newsletter",
         "title": "",
         "display_title": false,
         "linktext": "",
@@ -22,7 +22,7 @@
         "bformat": ""
     },
     {
-        "place": "ContentAd-3",
+        "place": "Content3-Newsletter",
         "title": "",
         "display_title": false,
         "linktext": "",
@@ -33,7 +33,7 @@
         "bformat": ""
     },
     {
-        "place": "ContentAd-4",
+        "place": "Content4-Newsletter",
         "title": "",
         "display_title": false,
         "linktext": "",
