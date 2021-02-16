@@ -1,0 +1,57 @@
+[
+    {
+        "place": "Maxi-Banner",
+        "title": "",
+        "display_title": false,
+        "linktext": "",
+        "text": "",
+        "img": "https://via.placeholder.com/728x180",
+        "click": "https://thescope.com",
+        "layout": "image",
+        "bformat": ""
+    },
+    {
+        "place": "ContentAd-1",
+        "title": "Text-Anzeige Titel",
+        "display_title": false,
+        "linktext": "Mehr erfahren",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tempus, velit at rhoncus tristique, eros purus tempus justo, at finibus magna libero nec ex. Sed porttitor tempor nulla at feugiat. ",
+        "img": "https://via.placeholder.com/1x1",
+        "click": "https://thescope.com",
+        "layout": "textanzeige",
+        "bformat": ""
+    },
+    {
+        "place": "ContentAd-2",
+        "title": "",
+        "display_title": false,
+        "linktext": "",
+        "text": "",
+        "img": "https://via.placeholder.com/300x250",
+        "click": "https://thescope.com",
+        "layout": "image",
+        "bformat": ""
+    },
+    {
+        "place": "ContentAd-3",
+        "title": "",
+        "display_title": false,
+        "linktext": "",
+        "text": "",
+        "img": "",
+        "click": "",
+        "layout": "image",
+        "bformat": ""
+    },
+    {
+        "place": "ContentAd-4",
+        "title": "",
+        "display_title": false,
+        "linktext": "",
+        "text": "",
+        "img": "",
+        "click": "",
+        "layout": "image",
+        "bformat": ""
+    }
+]
