@@ -9,3 +9,10 @@
 * Further relevant values: `title`, `text`, `linktext`, `click` (target URL), `img` (an image that is really shown, or just a tracking pixel).
 * `display_title` is a DFV legacy field that we ignore.
 * `bformat` is a DFV legacy field that we ignore.
+
+
+# Client Specific Details
+## KUHNFV1832
+* The system supports one `topstory`
+* `ContentAd-1` is the only ad slot that could be a `topstory`
+* Rules: The "ContentAds" will appear in order after each article list. Exception: If the 1st slot is a top story, the top story will be printed as the first item, before any other editor element.
